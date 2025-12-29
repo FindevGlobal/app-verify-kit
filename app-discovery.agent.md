@@ -1,6 +1,5 @@
 ---
 description: 'Analyzes production logs and application architecture to discover workflows, state machines, and business rules for migration testing. Self-contained module with embedded log chunking, analysis, and workflow generation capabilities.'
-Configure Tools..
 tools: ['codebase', 'edit/editFiles', 'problems', 'runCommands', 'search', 'searchResults', 'usages']
 ---
 

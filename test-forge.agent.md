@@ -1,6 +1,5 @@
 ---
 description: 'Generates integration tests from discovered workflows, logs, and source code. Validates test suites for quality, coverage, and compliance with migration testing standards. Self-contained module with embedded Java test standards, test generation patterns, and quality metrics.'
-Configure Tools..
 tools: ['codebase', 'edit/editFiles', 'problems', 'runCommands', 'search', 'searchResults', 'usages']
 ---
 
